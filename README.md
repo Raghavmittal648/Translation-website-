@@ -1,3 +1,6 @@
-# Translation-website-
+# Translation-application
 
-To run this application just go to "GO LIVE" section in vs code
+Simple go live to run project.  
+
+Simple translation project develop using simple javascript, html and css.
+Used simple google translator api.
